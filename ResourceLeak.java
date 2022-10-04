@@ -25,6 +25,7 @@ private int x ,y ,z,apiCount;
 
 	
 	public int getY() {
+		System.out.println("");
 		return this.x;
 	}
 
